@@ -1,0 +1,6 @@
+Angular: Framework -> FrontEnd
+Node: Crear el servidor
+TypeScript: Lenguaje
+MySql: Motor de base de datos
+
+Rest Api -> Rutas
